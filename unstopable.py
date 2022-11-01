@@ -1,4 +1,4 @@
-#Actually it was a hard challenge But i have idea of this type of challenges so I just try many time till  i get the flag :)
+
 
 from Crypto.Util.number import *
 from sympy import gcd
